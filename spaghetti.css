@@ -1,0 +1,105 @@
+body
+    {
+    padding: 50px;
+    }
+
+div.indent
+    {
+    border-left: 2px solid black;
+    padding-left: .5in;
+    }
+
+span.negative
+    {
+    color: red;
+    }
+
+span.indent
+    {
+    border-bottom: 5px solid black;
+    }
+
+span.indent span.indent
+    {
+    border-bottom: 10px solid #808080;
+    }
+
+span.indent span.indent span.indent
+    {
+    border-bottom: 15px solid black;
+    }
+
+span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 20px solid #808080;
+    }
+
+span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 25px solid black;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 30px solid #808080;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 35px solid black;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 40px solid #808080;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 45px solid black;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 50px solid #808080;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 55px solid black;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 60px solid #808080;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 65px solid black;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 70px solid #808080;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 75px solid black;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 80px solid #808080;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 85px solid black;
+    }
+
+span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent span.indent
+    {
+    border-bottom: 90px solid #808080;
+    }
